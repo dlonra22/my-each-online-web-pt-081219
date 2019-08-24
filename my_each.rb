@@ -8,6 +8,6 @@ def my_each(array) # put argument(s) here
     end
     array
   else 
-    puts "block not given"
+    "block not given"
   end
 end
